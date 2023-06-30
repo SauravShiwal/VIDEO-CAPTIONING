@@ -14,10 +14,7 @@ recommend installing pytorch and python packages using Anaconda
 
 
 ## Usage
-
-
-
-1. Run the Python file
+Run the Python file
 
 ```bash
 streamlit run main.py
